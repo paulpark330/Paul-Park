@@ -17,17 +17,17 @@ I love coding because I genuinely enjoy providing service to other people, which
 
 ### PERN Stack
 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://camo.githubusercontent.com/58920d1bb0091ddb32d21ded6dcfcbc742121f6fa0786e3ea5e7fd23274cd60f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d3430344435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
 ### MEAN Stack
 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://camo.githubusercontent.com/58920d1bb0091ddb32d21ded6dcfcbc742121f6fa0786e3ea5e7fd23274cd60f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d3430344435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
 ### CSS Frameworks
 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 
-<img src="https://camo.githubusercontent.com/58920d1bb0091ddb32d21ded6dcfcbc742121f6fa0786e3ea5e7fd23274cd60f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d3430344435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"> 
+ 
 <img src="https://camo.githubusercontent.com/cf6e939f4c599b4174de4f697b4c84ae058d91475b99ae95b43f7d197ab42540/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d4342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465"> 
 <img src="https://camo.githubusercontent.com/aa916459587c41a98e7b16e1adacc821f08a9733bcce342640a7c4f466980a19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765627061636b2d3844443646392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7765627061636b266c6f676f436f6c6f723d626c61636b"> 
 <img src="https://camo.githubusercontent.com/4f9d20f3a284d2f6634282f61f82a62e99ee9906537dc9859decfdc9efbb51ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465"> 
