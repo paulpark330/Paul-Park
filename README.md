@@ -43,3 +43,4 @@ I love coding because I genuinely enjoy providing service to other people, which
 ## Connect with me on [LinkedIn](https://www.linkedin.com/in/paulpark330//) 🤝
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/paulpark330/)
+
