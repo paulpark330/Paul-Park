@@ -3,6 +3,7 @@
 
 
 
+
 # Hi there! 👋
 
 Hi! I'm Paul, a self-sufficient Software Engineer who is able to work independently as well as in a team environment.
